@@ -36,3 +36,10 @@ If I would have more time, I would:
 		 3rd Party Library:  None 
    
 		 How much time did I spent:  Around 3-4 hours throughout week in chunks  
+		
+ScreenShots:
+---
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-20 at 00 05 45](https://user-images.githubusercontent.com/2319181/213656159-09104b79-7690-4a07-b88c-f70b7129009b.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-20 at 00 05 53](https://user-images.githubusercontent.com/2319181/213656162-44f45c47-fa28-492d-a645-c69553b0445e.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-20 at 00 06 12](https://user-images.githubusercontent.com/2319181/213656167-dc5351b5-8252-4eb2-81ef-39d0a978d94d.png)
